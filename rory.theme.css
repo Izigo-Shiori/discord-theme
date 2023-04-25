@@ -13,7 +13,7 @@
 
 :root {
   --main-color: #410000;
-  --embed-main-color: #2780e6;
+  --main-color: var(#2780e6);
   --hover-color: #1e63b3;
   --success-color: #43b581;
   --danger-color: #982929;
