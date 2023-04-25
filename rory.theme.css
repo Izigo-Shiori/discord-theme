@@ -80,7 +80,7 @@
   --backdrop-grayscale: var(--background-grayscale);
   --backdrop-sepia: var(--background-sepia);
   --backdrop-blur: var(--background-blur);
-  --bd-blue: #2780e6;
+  --bd-blue: var(--main-color);
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
 }
